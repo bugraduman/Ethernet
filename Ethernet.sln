@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ethernet", "Ethernet.csproj", "{BB640093-21F1-43B4-A4C7-F1D2F4300C13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{626BD2A1-DCFA-4858-978B-9F90A2130B04}"
+	ProjectSection(SolutionItems) = preProject
+		Test.cs = Test.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB640093-21F1-43B4-A4C7-F1D2F4300C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB640093-21F1-43B4-A4C7-F1D2F4300C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB640093-21F1-43B4-A4C7-F1D2F4300C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB640093-21F1-43B4-A4C7-F1D2F4300C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA1D8C1-BAC0-4474-B0A6-9A81A391AF1D}
+	EndGlobalSection
+EndGlobal
